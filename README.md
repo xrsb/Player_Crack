@@ -1,7 +1,7 @@
 # Player_Crack
 
 
-RodelPlayer(UWP) v2.2610.13.0
+RodelPlayer(UWP) v2.2610.14.0
 
 
 hills lite(UWP) v1.5.4

@@ -1,2 +1,4 @@
 # Player_Crack
-小幻影视、hills lite、hills for android
+小幻影视(UWP) v2.2610.13.0
+hills lite(UWP) v1.5.4
+hills for android v1.9.1

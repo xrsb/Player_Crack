@@ -9,3 +9,5 @@ hills lite v1.5.4
 
 hills for android v1.9.1
 
+hills Portable v1.5.4
+
